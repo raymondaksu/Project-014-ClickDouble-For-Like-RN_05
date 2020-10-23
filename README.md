@@ -8,12 +8,18 @@
 </div>
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
+<table>
+  <tr>
 - [Overview](#overview)
+  </tr>
+  <tr>
 - [Built With](#built-with)
+   </tr>
 - [Features](#features)
 - [How to use](#how-to-use)
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
+</table>
 <!-- OVERVIEW -->
 ## Overview
 ![videoclip](https://raymondaksu.github.io/Project-014-Click-For-Like-RN_05/Double_click_for_like.mp4)
